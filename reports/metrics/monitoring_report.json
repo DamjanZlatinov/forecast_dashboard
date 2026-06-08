@@ -1,0 +1,26 @@
+{
+    "data_monitoring": {
+        "event_rows": 69152,
+        "daily_rows": 886,
+        "date_min": "2018-08-09",
+        "date_max": "2021-01-10",
+        "total_views": 69152,
+        "unique_users": 245,
+        "unique_dashboards": 28,
+        "latest_7d_avg_views": 132.4286,
+        "previous_28d_avg_views": 96.25,
+        "latest_vs_previous_change": 0.3759
+    },
+    "model_monitoring": {
+        "validation_rows": 14,
+        "mae": 45.8243,
+        "rmse": 50.0035,
+        "coverage": 0.3571,
+        "mean_validation_absolute_error": 45.8243,
+        "max_validation_absolute_error": 82.0979
+    },
+    "alerts": [
+        "Prediction interval coverage is below threshold."
+    ],
+    "status": "warning"
+}
