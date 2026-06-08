@@ -1,0 +1,13 @@
+pandas
+numpy
+pyarrow
+prophet
+scikit-learn
+matplotlib
+jupyter
+pytest
+ruff
+black
+plotly
+nbformat
+kaleido
